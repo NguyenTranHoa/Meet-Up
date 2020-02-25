@@ -1,2 +1,1 @@
-This is first project use git
-a
+This is my first project!
